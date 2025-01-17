@@ -1,2 +1,3 @@
-# ZiplaHayattaKal-PlatformerGame
+# Python LVL1 App
+# Developer: Ercüment Çağlar Bilgehan
  
